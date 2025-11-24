@@ -1,4 +1,4 @@
-# Fitness-Log-Interface-System
+# Simple Fitness CLI Tracker
 A lightweight, console-based application written in Python for tracking daily physical activities and calculating total calories burned. This script uses simple Object-Oriented Programming (OOP) principles to manage activity records efficiently.
 
 # Features
